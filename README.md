@@ -45,8 +45,7 @@ Focused on quality, reliability, and scalable test automation.
 
 ---
 
-## 📌 Featured Projects  
-> (Quando você subir seus projetos de QA, posso montar os READMEs também.)
+## 📌 Featured Projects
 
 🔹 **Cypress Web Automation**  
 🔹 **API Testing with REST Assured**  
